@@ -1,0 +1,1 @@
+export { ApplaudoThemeProvider } from './applaudoThemeProvider';
